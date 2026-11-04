@@ -7,9 +7,9 @@ Je conçois et automatise des chaînes de données de bout en bout : collecte, s
 
 ---
 
-## Projets
+## Projets réalisés
 
-Huit projets professionnalisants, du stockage de données à l'IA générative. Chaque dépôt contient le code et sa documentation.
+Huit projets professionnalisants, du stockage de données à l'IA générative. Chaque dépôt contient le code et sa documentation. D'autres projets ont été réalisés mais n'ont pour l'instant pas été versionnés sur Github.
 
 | # | Projet | Contexte et réalisation | Outils | Résultat |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ Huit projets professionnalisants, du stockage de données à l'IA générative. 
 | Intégrer des modèles de machine learning et d'IA générative | 6 · 11 |
 | Documenter et présenter ses choix techniques | tous |
 
-## Ce que j'apporte
+## Valeur ajoutée
 
 - **Une vision de bout en bout** : de la source de données brute jusqu'au service exposé à l'utilisateur, en passant par le stockage, la transformation et la supervision.
 - **Des pipelines fiables** : tests de qualité à chaque étape, automatisation et monitoring plutôt que traitements manuels.
 - **Des choix techniques argumentés** : solutions adaptées au besoin, au budget et aux contraintes (simplicité, coût, souveraineté des données).
-- **Une double compétence data et IA générative** : RAG, bases vectorielles et intégration de modèles de langage dans une architecture de données.
+- **Une double compétence data et IA générative** : Pipeline complet de données et intégration de modèles de langage dans une architecture de données.
 
 ---
 
