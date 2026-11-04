@@ -1,4 +1,4 @@
-# Axel — Data Engineer
+# Axel Faure Beaulieu — Data Engineer
 
 Data Engineer en fin de formation (parcours **Data Engineer d'OpenClassrooms**, titre RNCP *Expert en ingénierie et science des données*, niveau 7 / bac +5).
 Je conçois et automatise des chaînes de données de bout en bout : collecte, stockage, transformation, orchestration, mise à disposition et supervision, jusqu'à l'intégration de modèles d'IA générative.
@@ -50,4 +50,4 @@ Huit projets professionnalisants, du stockage de données à l'IA générative. 
 
 ## Contact
 
-[LinkedIn à compléter] · [Adresse e-mail à compléter]
+[https://fr.linkedin.com/in/axel-faure-beaulieu-1810452b0] · [faurebeaulieu.axel@gmail.com]
