@@ -3,7 +3,7 @@
 Data Engineer en fin de formation (parcours **Data Engineer d'OpenClassrooms**, titre RNCP *Expert en ingénierie et science des données*, niveau 7 / bac +5).
 Je conçois et automatise des chaînes de données de bout en bout : collecte, stockage, transformation, orchestration, mise à disposition et supervision, jusqu'à l'intégration de modèles d'IA générative.
 
-**Stack principale** : Python · SQL · PostgreSQL · MongoDB · dbt · Airbyte · Kestra · Spark · Redpanda (Kafka) · Docker · AWS · Google Cloud · LangChain · Mistral AI
+**Stack principale** : Python · SQL · PostgreSQL · MongoDB · dbt · Airbyte · Kestra · Spark · Redpanda (Kafka) · Docker · AWS · Google Cloud · Mistral AI
 
 ---
 
